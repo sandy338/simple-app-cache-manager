@@ -43,4 +43,6 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+
+    namespace 'com.example.simple_app_cache_manager'  // Add this line
 }
